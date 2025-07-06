@@ -1,0 +1,5 @@
+{
+  "name": "ThermoAI",
+  "description": "Una aplicación impulsada por IA para mejorar la experiencia culinaria con Thermomix. Obtén traducciones de recetas al instante, asistencia en el modo manual y consejos de cocina inteligentes para desatar tu creatividad en la cocina.",
+  "requestFramePermissions": []
+}
